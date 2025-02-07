@@ -1,0 +1,186 @@
+
+        .forget {
+            min-height: 100vh;
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#E5FF02), to(#FF7002)) no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+        }
+        .forget-card {
+            background: white;
+            padding: 80px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+        }
+
+        .forget-lock-icon {
+            font-size: 40px;
+            margin-bottom: 16px;
+        }
+
+        .forget-card h1 {
+            color: #2d3748;
+            font-size: 28px;
+            margin-bottom: 32px;
+            font-weight: 700;
+        }
+
+        .forget-card input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 24px;
+            border: 1px solid #d71010;
+            border-radius: 6px;
+            font-size: 16px;
+            outline: none;
+        }
+
+        .forget-card input:focus {
+            border-color: #4c84f3;
+        }
+
+        .forget-card button {
+            width: 100%;
+            padding: 12px;
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#E5FF02), to(#FF7002)) no-repeat;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .forget-card button:hover {
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#FF7002), to(#E5FF02)) no-repeat;
+        }
+
+        /* set--Password */
+
+        .setPass {
+            min-height: 100vh;
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#E5FF02), to(#FF7002)) no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .setPass-card {
+            background: white;
+            padding: 4rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .setPass-title {
+            font-size: 1.6rem;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 0.5rem;
+            text-align: center;
+        }
+
+        .setPass-subtitle {
+            font-size: 1rem;
+            color: #333;
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .setPass-form-group {
+            margin-bottom: 1rem;
+        }
+
+        .setPass-form-group label {
+            display: block;
+            font-size: 1.3rem;
+            color: black;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .setPass-form-group input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #a81313;
+            border-radius: 4px;
+            font-size: 0.875rem;
+            color: #202020;
+        }
+
+        .setPass-form-group input::placeholder {
+            color: #161616;
+        }
+
+        .setPass-form-group input:focus {
+            outline: none;
+            border-color: #298aa7;
+            background-color: #fff;
+        }
+        .setPass-requirements{
+            color: #161616;
+            margin: 4px 0;
+        }
+
+        .setPass-form button {
+            width: 100%;
+            padding: 0.75rem;
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#E5FF02), to(#FF7002)) no-repeat;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            cursor: pointer;
+            margin-top: 1rem;
+            transition: background-color 0.2s ease;
+        }
+
+        .setPass-form button:hover {
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#FF7002), to(#E5FF02)) no-repeat;
+        }
+        
+        /* success */
+        .success-pass{
+            min-height: 100vh;
+            width: 100%;
+            background-color: white;
+            margin-top: 5%;
+        }
+        .success-pass video{
+            margin-left: 30%;
+            height: auto;
+            width: auto;
+            mix-blend-mode: darken;
+        }
+        .succ-con{
+            width: 30%;
+            margin:-150px auto;
+        }
+        .success-pass h1{
+            text-align: center;
+            font-style: italic;
+            font-size: 2rem;
+            transition: all ease-in;
+        }
+        .success-pass button{
+            position: absolute;
+            left: 45%;
+            background-color: orange;
+            border: none;
+            padding: 10px;
+            border-radius: 2rem;
+            box-shadow: 1px 1px 1px red;
+        }
+        .success-pass button a{
+            text-decoration: none;
+            font-size: 1rem;
+            color:black;
+            font-weight: 600;
+        }

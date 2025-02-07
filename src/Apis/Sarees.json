@@ -1,0 +1,141 @@
+{
+    "sarees":[
+        {
+            "id":501,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree1.jpg","../src/assets/sarees/saree1.1.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":502,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree33.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":503,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree34.1.jpg","../src/assets/sarees/saree34.2.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":504,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree2.jpg","../src/assets/sarees/saree2.2.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":505,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree3.jpg","../src/assets/sarees/saree3.1.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":506,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree4.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":507,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree5.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":508,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree6.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":509,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree7.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":510,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree8.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":511,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree9.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":512,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree10.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":513,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree11.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":514,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree12.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":515,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree13.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":516,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree14.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        },
+        {
+            "id":517,
+            "title":"Designable sarees collection",
+            "category":"cotton",
+            "price":999,
+            "image":["../src/assets/sarees/saree15.jpg"],
+            "description":"Sarees are traditional garments worn by women in South Asia, particularly in India, Bangladesh, Sri Lanka, and Nepal. A saree consists of a long piece of fabric, typically ranging from five to nine yards, that is draped elegantly around the body. It is usually paired with a blouse (choli) and a petticoat to provide structure. Sarees come in a wide variety of fabrics, including silk, cotton, chiffon, georgette, and crepe, with each fabric offering its unique texture and flow. The designs vary greatly, from intricate handwoven patterns to vibrant printed or embroidered motifs, often reflecting regional traditions and personal style. Sarees are worn for various occasions, ranging from everyday wear to special events like weddings and festivals, with bridal sarees being particularly elaborate, often adorned with gold or silver threads, gemstones, and rich fabrics. The saree’s timeless elegance and versatility make it a symbol of grace and cultural heritage."
+        }
+    ]
+
+}

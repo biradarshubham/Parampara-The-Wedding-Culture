@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: #212b33;
+    color: #ffffff;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    border-top: 1px solid red;
+}
+
+.footerContent {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+.footerSection h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.footerSection ul {
+    list-style: none;
+}
+
+.footerSection ul li {
+    margin-bottom: 12px;
+}
+
+.footerSection ul li a {
+    color: #a9b5bf;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.footerSection ul li a:hover {
+    color: #ffffff;
+
+}
+
+.footerBottom {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #3d515f;
+}
+
+.paymentMethods {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.paymentIcons {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.paymentIcon {
+    height: 30px;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 4px;
+}
+.secureSystem img{
+    height: 100px;
+}
+.footer-last{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid red;
+    gap: 10px;
+}
+.footer-last p{
+    margin-top: 10px;
+}
+.p1{
+    color: goldenrod;
+    font-size:20px;
+}
+.p2{
+    color: white;
+    font-size: 18px;
+}
+.top{
+    position:relative;
+    left: 20px;
+    background-color: grey;
+    padding: 10px;
+    bottom: 40px;
+    font-size: 2rem;
+    border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+    .footerContent {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .footerContent {
+        grid-template-columns: 1fr;
+    }
+
+    .paymentMethods {
+        flex-direction: column;
+        gap: 20px;
+    }
+}

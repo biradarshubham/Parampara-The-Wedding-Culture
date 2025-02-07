@@ -1,0 +1,167 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        .RegisterMainContainer {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#E5FF02), to(#FF7002)) no-repeat;
+            padding: 20px;
+        }
+
+        .registration-container {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+            transition: transform 0.3s ease;
+        }
+
+        .registration-container:hover {
+            transform: translateY(-5px);
+        }
+
+        .registration-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .registration-header h1 {
+            color: #2d3748;
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .registration-header p {
+            color: #718096;
+            font-size: 0.9rem;
+        }
+
+        .form-row {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .form-group {
+            flex: 1;
+            margin-bottom: 1.5rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            color: #4a5568;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: border-color 0.3s ease;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .form-group input:invalid {
+            border-color: #fc8181;
+        }
+
+        .password-requirements {
+            font-size: 0.8rem;
+            color: #718096;
+            margin-top: 0.5rem;
+        }
+
+        .terms {
+            display: flex;
+            align-items: start;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            color: #4a5568;
+            font-size: 0.9rem;
+        }
+
+        .terms input[type="checkbox"] {
+            margin-top: 0.2rem;
+        }
+
+        .terms a {
+            color: #667eea;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .terms a:hover {
+            color: #5a67d8;
+        }
+
+        .register-button {
+            width: 100%;
+            padding: 0.75rem;
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#E5FF02), to(#FF7002)) no-repeat;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .register-button:hover {
+            background: #FF7002 -webkit-gradient(linear, left top, left bottom, from(#FF7002), to(#E5FF02 )) no-repeat;
+        }
+
+        .register-button:disabled {
+            background: #cbd5e0;
+            cursor: not-allowed;
+        }
+
+        .login-link {
+            text-align: center;
+            margin-top: 1.5rem;
+            color: #4a5568;
+            font-size: 0.9rem;
+        }
+
+        .login-link a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .login-link a:hover {
+            color: #5a67d8;
+        }
+
+        @media (max-width: 640px) {
+            .form-row {
+                flex-direction: column;
+                gap: 0;
+            }
+
+            .registration-container {
+                padding: 1.5rem;
+            }
+
+            .registration-header h1 {
+                font-size: 1.5rem;
+            }
+        }

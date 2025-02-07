@@ -1,0 +1,84 @@
+{
+    "mens":[
+        {
+            "id":901,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt1.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":902,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt2.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":903,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt3.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":904,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt4.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":905,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt5.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":906,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt6.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":907,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt7.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":908,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt8.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":909,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt9.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        },
+        {
+            "id":910,
+            "title":"mens shirts",
+            "category":"cotton",
+            "price":499,
+            "image":["../src/assets/mens/shirt10.jpg"],
+            "description":"Upgrade your wardrobe with our collection of stylish and comfortable men's shirts. Designed for every occasion, our shirts come in a variety of styles, including formal, casual, and trendy options. Crafted from high-quality fabrics like cotton, linen, and blends, they ensure breathability and durability. Whether you're looking for classic solid colors, bold prints, or subtle patterns, we have the perfect fit for you. Choose from slim fit, regular fit, or relaxed fit styles to match your personal preference. Perfect for office wear, casual outings, or special events, our shirts combine elegance with modern fashion."
+        }
+    ]
+}

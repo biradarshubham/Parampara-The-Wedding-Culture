@@ -1,0 +1,24 @@
+{
+  "register": [
+    {
+      "id": "67c9",
+      "firstName": "shivam",
+      "lastName": "ghodake",
+      "email": "shivam@gmail.com",
+      "contact": "9767323496",
+      "password": "Shivam@123",
+      "confirmPwd": "Shivam@123",
+      "terms": "true"
+    },
+    {
+      "id": "118e",
+      "firstName": "tejas",
+      "lastName": "pangare",
+      "email": "tejas@gmail.com",
+      "contact": "9767323454",
+      "password": "Tejas@123",
+      "confirmPwd": "Tejas@123",
+      "terms": "true"
+    }
+  ]
+}

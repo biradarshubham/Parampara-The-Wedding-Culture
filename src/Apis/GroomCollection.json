@@ -1,0 +1,28 @@
+{
+    "groom":[
+        {
+            "id":201,
+            "title":"Designable wedding cloth for groom",
+            "category":"cotton",
+            "price":5000,
+            "image":["../src/assets/groom/groom1.jpg","../src/assets/groom/groom1.1.jpg"],
+            "description":"Groom suits are formal outfits worn by men on their wedding day, designed to reflect sophistication and style. Typically consisting of a tailored suit, dress shirt, and tie or bow tie, groom suits come in various styles, including classic, modern, or custom designs. Fabrics like wool, silk, and satin are common, often chosen for their elegance and texture. Groom suits may feature intricate details such as embroidery, unique buttons, or subtle embellishments to make them stand out. Many grooms also opt for tuxedos or sherwanis for a more traditional or luxurious look. The suit is an essential part of the groom’s overall wedding attire, ensuring he looks polished and dashing for the occasion."
+        },
+        {
+            "id":202,
+            "title":"Designable wedding DressUp for groom's brother",
+            "category":"cotton",
+            "price":3000,
+            "image":["../src/assets/groom/groom2.jpg","../src/assets/groom/groom2.1.jpg"],
+            "description":"Groom suits are formal outfits worn by men on their wedding day, designed to reflect sophistication and style. Typically consisting of a tailored suit, dress shirt, and tie or bow tie, groom suits come in various styles, including classic, modern, or custom designs. Fabrics like wool, silk, and satin are common, often chosen for their elegance and texture. Groom suits may feature intricate details such as embroidery, unique buttons, or subtle embellishments to make them stand out. Many grooms also opt for tuxedos or sherwanis for a more traditional or luxurious look. The suit is an essential part of the groom’s overall wedding attire, ensuring he looks polished and dashing for the occasion."
+        },
+        {
+            "id":203,
+            "title":"Designable wedding DressUp for groom normal",
+            "category":"cotton",
+            "price":3000,
+            "image":["../src/assets/groom/groom3.jpg"],
+            "description":"Groom suits are formal outfits worn by men on their wedding day, designed to reflect sophistication and style. Typically consisting of a tailored suit, dress shirt, and tie or bow tie, groom suits come in various styles, including classic, modern, or custom designs. Fabrics like wool, silk, and satin are common, often chosen for their elegance and texture. Groom suits may feature intricate details such as embroidery, unique buttons, or subtle embellishments to make them stand out. Many grooms also opt for tuxedos or sherwanis for a more traditional or luxurious look. The suit is an essential part of the groom’s overall wedding attire, ensuring he looks polished and dashing for the occasion."
+        }
+    ]
+}

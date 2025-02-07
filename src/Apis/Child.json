@@ -1,0 +1,20 @@
+{
+    "child":[
+        {
+            "id":1,
+            "title":"Designable wedding DressUp for child-girl",
+            "category":"cotton",
+            "price":500,
+            "image":["../src/assets/child/child1.jpg","../src/assets/child/child1.1.jpg"],
+            "description":"Children's clothing includes comfortable and practical garments like T-shirts, dresses, jeans, and formal wear for special occasions. Made from soft, breathable fabrics like cotton, kids' clothes are often colorful, playful, and easy to care for. For babies and toddlers, clothes are designed for comfort and easy dressing, with features like snap buttons and elastic waistbands. Overall, kids' clothing prioritizes comfort, durability, and fun styles."
+        },
+        {
+            "id":2,
+            "title":"festival DressUp",
+            "category":"cotton",
+            "price":500,
+            "image":["../src/assets/child/child2.jpg"],
+            "description":"Children's clothing includes comfortable and practical garments like T-shirts, dresses, jeans, and formal wear for special occasions. Made from soft, breathable fabrics like cotton, kids' clothes are often colorful, playful, and easy to care for. For babies and toddlers, clothes are designed for comfort and easy dressing, with features like snap buttons and elastic waistbands. Overall, kids' clothing prioritizes comfort, durability, and fun styles."
+        }
+    ]
+}

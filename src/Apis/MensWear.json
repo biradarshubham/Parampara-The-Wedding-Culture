@@ -1,0 +1,77 @@
+{
+    "menswear":[
+        {
+            "id":601,
+            "title":"Category Foot Wear For Boys",
+            "category":"loafer",
+            "price":800,
+            "image":["../src/assets/menswear/menswear1.jpg","../src/assets/mens wear/menswear1.1.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":602,
+            "title":"Category Foot Wear For Boys",
+            "category":"loafer",
+            "price":800,
+            "image":["../src/assets/menswear/menswear2.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":603,
+            "title":"Category Foot Wear For Boys",
+            "category":"loafer",
+            "price":800,
+            "image":["../src/assets/menswear/menswear3.jpg","../src/assets/mens wear/menswear3.1.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":604,
+            "title":"Category Foot Wear For Boys",
+            "category":"kolhapuri",
+            "price":1000,
+            "image":["../src/assets/menswear/menswear4.jpg","../src/assets/mens wear/menswear4.1.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":605,
+            "title":"Category Foot Wear For Boys",
+            "category":"kolhapuri type",
+            "price":800,
+            "image":["../src/assets/menswear/menswear5.jpg","../src/assets/mens wear/menswear5.1.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":606,
+            "title":"Category Foot Wear For Boys",
+            "category":"kolhapuri",
+            "price":1000,
+            "image":["../src/assets/menswear/menswear6.jpg","../src/assets/mens wear/menswear6.1.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":607,
+            "title":"Category Foot Wear For Boys",
+            "category":"kolhapuri",
+            "price":999,
+            "image":["../src/assets/menswear/menswear7.jpg","../src/assets/mens wear/menswear7.1.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":608,
+            "title":"Category Foot Wear For Boys",
+            "category":"loafer",
+            "price":1099,
+            "image":["../src/assets/menswear/menswear8.jpg"],
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        },
+        {
+            "id":609,
+            "title":"Category Foot Wear For Boys",
+            "category":"loafer",
+            "price":1099,
+            "image":["../src/assets/menswear/menswear9.jpg"],   
+            "description":"Mens footwear includes a variety of styles suited for different occasions, ranging from formal to casual. Common types include leather dress shoes like oxfords and brogues for formal settings, sneakers and loafers for casual wear, and boots like Chelsea or work boots for practical or stylish purposes. Sandals and slippers are also popular for relaxed settings. Materials often used are leather, suede, rubber, and fabric, offering comfort, durability, and style. Whether for work, events, or leisure, mens footwear plays an important role in completing an outfit with both function and fashion."
+        }
+    ]
+
+}
